@@ -1,4 +1,4 @@
-## Clone the repo by 
+ Clone the repo by 
 `git clone <repo-link>`
 `cd FusionDashboard`
 `cd fusion-dashboard`
